@@ -34,7 +34,7 @@ Microsoft Excel<br />
 <h4>Sales Performance</h4>
 <img width="1771" height="775" alt="Screenshot 2025-11-29 235037" src="https://github.com/user-attachments/assets/1959b75e-05bb-4886-ac27-8d97aee74f3f" />
 
-Click [here](https://1drv.ms/x/c/7331eaf841898e0a/IQBW-2o4oHlsR7XO_QyLtTTLAcYz2YJhqYGqKrsue_-ZWzQ?e=YvFoG8) for complete Interactive Excel Dashboard.
+<a href="https://your-link-here.com](https://1drv.ms/x/c/7331eaf841898e0a/IQBW-2o4oHlsR7XO_QyLtTTLAcYz2YJhqYGqKrsue_-ZWzQ?e=YvFoG8" target="_blank">Click here</a> for complete Interactive Excel Dashboard.
 <h2>📈 Key Insights</h2>
 <h4>Revenue Performance Overview</h4>
 Monthly revenue exhibits clear seasonality with significant spikes in February and August, suggesting strong alignment with festive periods, targeted promotions, or high-demand campaigns. Notably, revenue dips in April, September, and December, indicating off-peak periods where demand-softening mitigation strategies may be explored.
