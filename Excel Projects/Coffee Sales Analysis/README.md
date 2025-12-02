@@ -39,7 +39,7 @@ Filters for Roast **Type, Size, and Loyalty** indicate that sales analysis can b
 •	Size variations (0.2kg to 2.5kg) suggest diverse buyer needs, from personal use to commercial consumption.<br />
 •	Loyalty segmentation (Yes/No) supports retention analysis and effectiveness of loyalty initiatives.<br />
 <h2>Strategic Implications</h2>
-The analysis insights support several strategic directions:
+The analysis insights support several strategic directions:<br />
 •	Market Expansion: Significant reliance on U.S. customers highlights an opportunity to strengthen outreach in Ireland, the U.K., and other regions.<br />
 •	Product Optimization: Given varying trends among coffee types, marketing efforts could focus on promoting consistently high-performing varieties (Arabica & Robusta) while repositioning weaker sellers.<br />
 •	Customer Engagement: Top customers exhibit moderate spend levels, indicating room for growth through loyalty rewards, upselling larger sizes, or subscription models.<br />
