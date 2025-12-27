@@ -1,1 +1,1 @@
-# Data Analystics Project Collections
+# Data Analytics Project Collections
