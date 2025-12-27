@@ -1,1 +1,1 @@
-excel
+Microsoft Excel Project Collections
