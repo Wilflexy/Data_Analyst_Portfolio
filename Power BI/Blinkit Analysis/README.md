@@ -18,29 +18,44 @@ Power BI<br />
 <img width="1304" height="741" alt="Screenshot 2025-12-23 101757" src="https://github.com/user-attachments/assets/c88f1e1a-55b7-4d83-aae3-f48f5c834982" />
 
 <h2>📈 Key Insights</h2>
-<h4>Overall Sales Trend (2019-2022)</h4>
-Total sales over time reveal significant month-to-month volatility, with no strong long-term upward or downward trend. Peaks occur irregularly across years, indicating that demand is influenced more by seasonal factors, specific promotions, or customer order cycles rather than consistent growth patterns. <br />
-•	Arabica and Robusta exhibit the most pronounced spikes, suggesting they are key volume drivers.<br />
-•	Excelsa and Liberica show moderate but fluctuating sales patterns, reflecting niche or specialty customer demand.<br />
-<h4>Geographical Performance</h4>
-Sales distribution across countries shows clear market concentration:
-•	The United States is the dominant revenue contributor with $2,493, far outpacing other regions.<br />
-•	Ireland follows with $537, and
-•	The United Kingdom trails with $278.<br />
-This indicates strong penetration in the U.S. market, while the European markets show potential for growth with targeted marketing and channel expansion.
-<h4>Customer Insights</h4>
-The dashboard highlights the Top 5 Customers, who collectively form a significant chunk of recurring sales:
-•	The highest-spending customer contributes $43, followed closely by others spending between $30 and $36.<br />
-These moderate but consistent purchase levels suggest a broad customer base with relatively even ordering patterns, rather than a heavy reliance on a few high-value buyers. This reduces revenue risk but also indicates an opportunity to nurture loyalty programs or bulk-order incentives.
-<h4>Product Characteristics & Segmentation</h4>
+<h4>Overall Business Performance</h4>
+•	Total Sales: $1.20M, indicating healthy overall revenue generation<br />
+•	Average Sales per Item: $141, suggesting consistent transaction value across products<br />
+•	Total Items Sold: 8,523, reflecting high product movement and customer demand<br />
+•	Average Customer Rating: 3.97, showing generally positive customer satisfaction, though with room for service or product experience improvement<br />
+<h4>Sales Trend & Outlet Establishment</h4>
+•	Sales show steady growth from 2011 through 2018, peaking at approximately $0.20M in 2018, indicating successful outlet expansion and market penetration<br />
+•	A decline post-2018 suggests possible market saturation, external disruptions, or operational challenges<br />
+•	Stabilization by 2022 around $0.13M reflects recovery and sustained demand despite prior downturns<br />
+Outlet expansion has historically driven revenue growth, but future gains may depend more on efficiency and optimization than new outlet openings.
+<h4>Product & Category Performance</h4>
+<h6>Top-performing categories:</h6>
+•	Fruits & Vegetables – $0.18M
+•	Snack Foods – $0.18M
+•	Household items – $0.14M
+<h6>Lower-performing categories:</h6> 
+Seafood, Breakfast items, and Others contribute minimally<br />
+Daily-consumption essentials dominate revenue, reinforcing Blinkit’s positioning as a convenience-first, quick-commerce platform.
+<h4>Fat Content Analysis</h4>
 Filters for Roast **Type, Size, and Loyalty** indicate that sales analysis can be refined by customer preferences. 
-•	Roast Type (Dark, Light, Medium) allows analysis of flavor preferences.<br />
-•	Size variations (0.2kg to 2.5kg) suggest diverse buyer needs, from personal use to commercial consumption.<br />
-•	Loyalty segmentation (Yes/No) supports retention analysis and effectiveness of loyalty initiatives.<br />
+•	Regular-fat products contribute ~$776K, while low-fat products contribute ~$425K<br />
+•	Across all outlet tiers, regular-fat products consistently outperform low-fat options<br />
+Despite growing health awareness, customer purchasing behavior still favors regular variants, presenting an opportunity for targeted health-product promotions rather than broad expansion.
+<h4>Outlet Size Performance</h4>
+•	Medium-sized outlets lead sales with approximately $507.9K, followed by: Small outlets: $444.8K, High-sized outlets: $248.9K<br />
+Medium outlets strike the best balance between assortment depth and operational efficiency, making them the most profitable format.
+<h4>Outlet Location & Tier Analysis</h4>
+•	Tier 3 locations outperform Tier 1 and Tier 2, generating $472.1K in sales<br />
+•	Tier 2 follows with $393.2K, while Tier 1 contributes $336.4K<br />
+Emerging and semi-urban markets show stronger demand growth, potentially due to lower competition and increasing adoption of quick-commerce services.
+<h4>Outlet Type Performance</h4>
+•	Supermarket Type 1 dominates, contributing $787.6K in total sales and 5,577 items sold, making it the backbone of Blinkit’s revenue<br />
+•	Grocery Stores and other supermarket formats contribute significantly less but maintain comparable average sales and ratings<br />
 <h2>Strategic Implications</h2>
-The analysis insights support several strategic directions:<br />
-•	Market Expansion: Significant reliance on U.S. customers highlights an opportunity to strengthen outreach in Ireland, the U.K., and other regions.<br />
-•	Product Optimization: Given varying trends among coffee types, marketing efforts could focus on promoting consistently high-performing varieties (Arabica & Robusta) while repositioning weaker sellers.<br />
-•	Customer Engagement: Top customers exhibit moderate spend levels, indicating room for growth through loyalty rewards, upselling larger sizes, or subscription models.<br />
-•	Seasonal Planning: The irregular monthly sales patterns suggest a need to investigate underlying causes (e.g., seasonality, promotions) to better forecast and stabilize revenue.<br />
+•  Revenue concentration in Supermarket Type 1 and medium-sized outlets suggests clear priorities for investment and optimization.
+•  Tier 3 markets present the strongest growth opportunity, warranting focused expansion and localized marketing.
+•  Core essentials drive sales, reinforcing the need to maintain supply chain reliability for high-demand categories.
+•  Customer satisfaction is stable, but incremental improvements could lift ratings above 4.0 and improve loyalty.
+•  Future growth should prioritize efficiency, assortment optimization, and visibility improvements over aggressive physical expansion.
+
 
