@@ -52,10 +52,10 @@ Emerging and semi-urban markets show stronger demand growth, potentially due to 
 •	Supermarket Type 1 dominates, contributing $787.6K in total sales and 5,577 items sold, making it the backbone of Blinkit’s revenue<br />
 •	Grocery Stores and other supermarket formats contribute significantly less but maintain comparable average sales and ratings<br />
 <h2>Strategic Implications</h2>
-•  Revenue concentration in Supermarket Type 1 and medium-sized outlets suggests clear priorities for investment and optimization.
-•  Tier 3 markets present the strongest growth opportunity, warranting focused expansion and localized marketing.
-•  Core essentials drive sales, reinforcing the need to maintain supply chain reliability for high-demand categories.
-•  Customer satisfaction is stable, but incremental improvements could lift ratings above 4.0 and improve loyalty.
-•  Future growth should prioritize efficiency, assortment optimization, and visibility improvements over aggressive physical expansion.
+•  Revenue concentration in Supermarket Type 1 and medium-sized outlets suggests clear priorities for investment and optimization<br />
+•  Tier 3 markets present the strongest growth opportunity, warranting focused expansion and localized marketing<br />
+•  Core essentials drive sales, reinforcing the need to maintain supply chain reliability for high-demand categories<br />
+•  Customer satisfaction is stable, but incremental improvements could lift ratings above 4.0 and improve loyalty<br />
+•  Future growth should prioritize efficiency, assortment optimization, and visibility improvements over aggressive physical expansion<br />
 
 
