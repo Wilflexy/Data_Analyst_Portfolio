@@ -1,23 +1,22 @@
 <h2>📁 Project Overview</h2>
-The Coffee Sales Dashboard provides a comprehensive overview of sales performance across multiple dimensions, including time, geography, product characteristics, and customer segments. The dataset spans from 2019 to 2022, enabling longitudinal analysis of trends, buying patterns, and revenue drivers.
-<h2>📂 Problem Statement/Analysis Questions</h2>
-The company seeks to obtain a comprehensive analysis of its sales performance for three categories of coffee within a four years period across USA, United Kingdom, and Ireland to gain valuable insights into country performance, and customer preference, and top performing customers.
+This dashboard provides a comprehensive overview of Blinkit’s sales performance, product mix, outlet dynamics, and customer sentiment across outlet types, sizes, and locations. The overall data reflects a strong revenue concentration in specific outlet formats and product categories, with stable customer ratings and clear growth patterns over time.
+<h2>📂 Problem Statement</h2>
+The company seeks to conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Power BI.
 <h2>🧰 Tools & Technologies</h2>
-Microsoft Excel<br />
-•	Power Query: used for data extraction, transformation, and loading (ETL) into an Excel table.<br />
-•	PivotTables / Pivot Charts: Used for analysis of the combined datasets and visual presentation of the outcome.<br />
+Power BI<br />
+•	Power Query: used for data extraction, transformation, and loading (ETL) into Power BI.<br />
+•	DAX FUnctions: used used to create explicit measures<br />
+•	Charts: Used for analysis of the combined datasets and visual presentation of the outcome.<br />
 <h2>🔍 Skills Demonstrated</h2>
-•	Data Cleaning in Excel<br />
-•	Power Query<br />
-•	Advanced Excel Functions<br />
-•	PivotTables and PivotCharts<br />
+•	Data Cleaning and transformation Power BI<br />
+•	DAX Functions<br />
+•	Use of Power BI Parameters<br />
+•	Charts and Charts Formatting<br />
 •	Dashboard Design<br />
-•	Date & text manipulation<br />
 •	Slicers for interactivity<br />
 <h2>📸 Dashboard Preview</h2>
-<img width="881" height="447" alt="coffee_sales_img" src="https://github.com/user-attachments/assets/ecd5ab45-bc03-46ea-9880-571f3d584877" />
-<a href="https://1drv.ms/x/c/7331eaf841898e0a/IQAOQU2ZOyDzT53B8S1g9TKvAWPTe7AKziRieuf8BZCUA5g?e=rBeHEO">
-Click here</a> for complete Interactive Excel Dashboard.
+<img width="1304" height="741" alt="Screenshot 2025-12-23 101757" src="https://github.com/user-attachments/assets/c88f1e1a-55b7-4d83-aae3-f48f5c834982" />
+
 <h2>📈 Key Insights</h2>
 <h4>Overall Sales Trend (2019-2022)</h4>
 Total sales over time reveal significant month-to-month volatility, with no strong long-term upward or downward trend. Peaks occur irregularly across years, indicating that demand is influenced more by seasonal factors, specific promotions, or customer order cycles rather than consistent growth patterns. <br />
