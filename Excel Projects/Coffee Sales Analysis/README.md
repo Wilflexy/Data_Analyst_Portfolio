@@ -15,7 +15,7 @@ Microsoft Excel<br />
 •	Date & text manipulation<br />
 •	Slicers for interactivity<br />
 <h2>📸 Dashboard Preview</h2>
-<img width="881" height="447" alt="coffee_sales_img" src="https://github.com/user-attachments/assets/ecd5ab45-bc03-46ea-9880-571f3d584877" />
+<img width="881" height="447" alt="coffee_sales_img" src="https://github.com/user-attachments/assets/ecd5ab45-bc03-46ea-9880-571f3d584877" /><br />
 <a href="https://1drv.ms/x/c/7331eaf841898e0a/IQAOQU2ZOyDzT53B8S1g9TKvAWPTe7AKziRieuf8BZCUA5g?e=rBeHEO">
 Click here</a> for complete Interactive Excel Dashboard.
 <h2>📈 Key Insights</h2>
